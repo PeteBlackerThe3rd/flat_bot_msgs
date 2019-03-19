@@ -17,4 +17,4 @@ float32 uptime
 # current bus voltage (volts)
 float32 bus_voltage
 
-flat_bot_msgs/ConnectorStatus connector_states
+flat_bot_msgs/ConnectorStatus[] connector_states
